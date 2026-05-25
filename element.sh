@@ -23,3 +23,5 @@ else
   fi
 fi# Periodic Table Script
 # version 1.0
+# author: camper
+# description: periodic table lookup
